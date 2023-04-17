@@ -1,7 +1,3 @@
-whassup gamers
+Programmer with an interest in Graphics Programming and Game Engines. 
 
-it's me
-
-i am very proffesional and good programmer
-
-owo uwu
+Also enjoy the occasional bit of game modding and reverse engineering 😉
