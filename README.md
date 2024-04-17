@@ -1,5 +1,7 @@
-Programmer with an interest in Graphics Programming and Game Engines. 
+hey
 
-Also enjoy the occasional bit of game modding and reverse engineering 😉
+im a programmer with an interest in graphics and game engines. 
 
-Creator & Developer of the [Feather Engine](https://www.github.com/feather-game-engine/feather)
+im also the creator & former lead developer of the [Feather Engine](https://www.github.com/feather-game-engine/feather)
+
+currently working on some new projects (?)
